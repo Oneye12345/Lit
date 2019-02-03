@@ -1,0 +1,17 @@
+C:\Users\Pornography\Desktop\Lit\Lit\Lit\Lit\obj\Debug\netstandard2.0\Lit.csprojAssemblyReference.cache
+C:\Users\Pornography\Desktop\Lit\Lit\Lit\Lit\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Pornography\Desktop\Lit\Lit\Lit\Lit\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Pornography\Desktop\Lit\Lit\Lit\Lit\obj\Debug\netstandard2.0\Lit.csproj.CoreCompileInputs.cache
+C:\Users\Pornography\Desktop\Lit\Lit\Lit\Lit\obj\Debug\netstandard2.0\Lit.AssemblyInfoInputs.cache
+C:\Users\Pornography\Desktop\Lit\Lit\Lit\Lit\obj\Debug\netstandard2.0\Lit.AssemblyInfo.cs
+C:\Users\Pornography\Desktop\Lit\Lit\Lit\Lit\obj\Debug\netstandard2.0\Lit.dll
+C:\Users\Pornography\Desktop\Lit\Lit\Lit\Lit\obj\Debug\netstandard2.0\Lit.pdb
+C:\Users\Pornography\Desktop\Lit\Lit\Lit\Lit\bin\Debug\netstandard2.0\Lit.deps.json
+C:\Users\Pornography\Desktop\Lit\Lit\Lit\Lit\bin\Debug\netstandard2.0\Lit.dll
+C:\Users\Pornography\Desktop\Lit\Lit\Lit\Lit\bin\Debug\netstandard2.0\Lit.pdb
+C:\Users\Pornography\Desktop\Lit\Lit\Lit\Lit\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Pornography\Desktop\Lit\Lit\Lit\Lit\obj\Debug\netstandard2.0\IntroSplash.xaml.g.cs
+C:\Users\Pornography\Desktop\Lit\Lit\Lit\Lit\obj\Debug\netstandard2.0\MenuPage.xaml.g.cs
+C:\Users\Pornography\Desktop\Lit\Lit\Lit\Lit\obj\Debug\netstandard2.0\DamageCalc.xaml.g.cs
+C:\Users\Pornography\Desktop\Lit\Lit\Lit\Lit\obj\Debug\netstandard2.0\inGame.xaml.g.cs
+C:\Users\Pornography\Desktop\Lit\Lit\Lit\Lit\obj\Debug\netstandard2.0\Price.xaml.g.cs
