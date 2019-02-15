@@ -2,6 +2,7 @@
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
+
 [assembly: XamlCompilation(XamlCompilationOptions.Compile)]
 namespace Lit
 {
@@ -28,6 +29,6 @@ namespace Lit
         {
             // Handle when your app resumes
         }
-       
+        
     }
 }

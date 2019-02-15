@@ -6,7 +6,7 @@
 
     <StackLayout Padding="10, 60, 10, 15" Spacing="12">
         <Image Source="SplashIcon.png" Margin="0,0,0,25" HeightRequest="100" WidthRequest="100" />
-        <Label Text="Welcome to Warframe Helper" HorizontalTextAlignment="Center" TextColor="Red"/>
+        <Label Text="Click Start for a Secret message" HorizontalTextAlignment="Center" TextColor="Red"/>
         <Button BackgroundColor="#66c7d3" Text="Start" FontSize="Medium" TextColor="White" Clicked="OnStart" HorizontalOptions="FillAndExpand" CornerRadius="26"/>
     </StackLayout>
 </ContentPage>
